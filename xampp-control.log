@@ -1,0 +1,615 @@
+13:43:51  [main] 	Initializing Control Panel
+13:43:51  [main] 	Windows Version:  Enterprise  64-bit
+13:43:51  [main] 	XAMPP Version: 8.2.4
+13:43:51  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+13:43:51  [main] 	You are not running with administrator rights! This will work for
+13:43:51  [main] 	most application stuff but whenever you do something with services
+13:43:51  [main] 	there will be a security dialogue or things will break! So think 
+13:43:51  [main] 	about running this application with administrator rights!
+13:43:51  [main] 	XAMPP Installation Directory: "c:\xampp\"
+13:43:51  [main] 	Checking for prerequisites
+13:43:53  [main] 	All prerequisites found
+13:43:53  [main] 	Initializing Modules
+13:43:53  [mysql] 	XAMPP MySQL is already running on port 3306
+13:43:53  [Tomcat] 	Problem detected!
+13:43:53  [Tomcat] 	Port 8005 in use by "Unable to open process"!
+13:43:53  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+13:43:53  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+13:43:53  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+13:43:53  [main] 	Starting Check-Timer
+13:43:53  [main] 	Control Panel Ready
+13:44:06  [Apache] 	Attempting to start Apache app...
+13:44:07  [Apache] 	Status change detected: running
+09:45:05  [Apache] 	Attempting to stop Apache (PID: 35432)
+09:45:05  [Apache] 	Attempting to stop Apache (PID: 38460)
+09:45:05  [Apache] 	Status change detected: stopped
+09:45:06  [mysql] 	Attempting to stop MySQL app...
+09:45:06  [mysql] 	Status change detected: stopped
+09:45:08  [Apache] 	Attempting to start Apache app...
+09:45:08  [Apache] 	Status change detected: running
+09:45:09  [mysql] 	Attempting to start MySQL app...
+09:45:09  [mysql] 	Status change detected: running
+08:48:43  [main] 	Deinitializing Modules
+08:48:43  [main] 	Deinitializing Control Panel
+
+10:15:02  [main] 	Initializing Control Panel
+10:15:02  [main] 	Windows Version:  Enterprise  64-bit
+10:15:02  [main] 	XAMPP Version: 8.2.4
+10:15:02  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:15:02  [main] 	You are not running with administrator rights! This will work for
+10:15:02  [main] 	most application stuff but whenever you do something with services
+10:15:02  [main] 	there will be a security dialogue or things will break! So think 
+10:15:02  [main] 	about running this application with administrator rights!
+10:15:02  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:15:02  [main] 	Checking for prerequisites
+10:15:03  [main] 	All prerequisites found
+10:15:03  [main] 	Initializing Modules
+10:15:03  [Tomcat] 	Problem detected!
+10:15:03  [Tomcat] 	Port 8005 in use by "Unable to open process"!
+10:15:03  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+10:15:03  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+10:15:03  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+10:15:03  [main] 	Starting Check-Timer
+10:15:03  [main] 	Control Panel Ready
+10:15:05  [Apache] 	Attempting to start Apache app...
+10:15:05  [Apache] 	Status change detected: running
+10:15:06  [mysql] 	Attempting to start MySQL app...
+10:15:06  [mysql] 	Status change detected: running
+10:48:29  [main] 	Deinitializing Modules
+10:48:29  [main] 	Deinitializing Control Panel
+
+13:12:31  [main] 	Initializing Control Panel
+13:12:31  [main] 	Windows Version:  Enterprise  64-bit
+13:12:31  [main] 	XAMPP Version: 8.2.4
+13:12:31  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+13:12:31  [main] 	You are not running with administrator rights! This will work for
+13:12:31  [main] 	most application stuff but whenever you do something with services
+13:12:31  [main] 	there will be a security dialogue or things will break! So think 
+13:12:31  [main] 	about running this application with administrator rights!
+13:12:31  [main] 	XAMPP Installation Directory: "c:\xampp\"
+13:12:31  [main] 	Checking for prerequisites
+13:12:33  [main] 	All prerequisites found
+13:12:33  [main] 	Initializing Modules
+13:12:33  [Tomcat] 	Problem detected!
+13:12:33  [Tomcat] 	Port 8005 in use by "Unable to open process"!
+13:12:33  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+13:12:33  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+13:12:33  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+13:12:33  [main] 	Starting Check-Timer
+13:12:33  [main] 	Control Panel Ready
+13:12:36  [Apache] 	Attempting to start Apache app...
+13:12:36  [Apache] 	Status change detected: running
+13:12:43  [mysql] 	Attempting to start MySQL app...
+13:12:43  [mysql] 	Status change detected: running
+13:12:46  [mysql] 	Status change detected: stopped
+13:12:46  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:12:46  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:12:46  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:12:46  [mysql] 	Press the Logs button to view error logs and check
+13:12:46  [mysql] 	the Windows Event Viewer for more clues
+13:12:46  [mysql] 	If you need more help, copy and post this
+13:12:46  [mysql] 	entire log window on the forums
+13:12:50  [mysql] 	Attempting to start MySQL app...
+13:12:50  [mysql] 	Status change detected: running
+13:12:52  [mysql] 	Status change detected: stopped
+13:12:52  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:12:52  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:12:52  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:12:52  [mysql] 	Press the Logs button to view error logs and check
+13:12:52  [mysql] 	the Windows Event Viewer for more clues
+13:12:52  [mysql] 	If you need more help, copy and post this
+13:12:52  [mysql] 	entire log window on the forums
+13:12:54  [mysql] 	Attempting to start MySQL app...
+13:12:54  [mysql] 	Status change detected: running
+13:12:55  [mysql] 	Status change detected: stopped
+13:12:55  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:12:55  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:12:55  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:12:55  [mysql] 	Press the Logs button to view error logs and check
+13:12:55  [mysql] 	the Windows Event Viewer for more clues
+13:12:55  [mysql] 	If you need more help, copy and post this
+13:12:55  [mysql] 	entire log window on the forums
+13:12:56  [mysql] 	Attempting to start MySQL app...
+13:12:57  [mysql] 	Status change detected: running
+13:12:58  [mysql] 	Status change detected: stopped
+13:12:59  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:12:59  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:12:59  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:12:59  [mysql] 	Press the Logs button to view error logs and check
+13:12:59  [mysql] 	the Windows Event Viewer for more clues
+13:12:59  [mysql] 	If you need more help, copy and post this
+13:12:59  [mysql] 	entire log window on the forums
+13:12:59  [mysql] 	Attempting to start MySQL app...
+13:12:59  [mysql] 	Status change detected: running
+13:13:01  [mysql] 	Status change detected: stopped
+13:13:01  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:13:01  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:13:01  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:13:01  [mysql] 	Press the Logs button to view error logs and check
+13:13:01  [mysql] 	the Windows Event Viewer for more clues
+13:13:01  [mysql] 	If you need more help, copy and post this
+13:13:01  [mysql] 	entire log window on the forums
+13:13:02  [mysql] 	Attempting to start MySQL app...
+13:13:02  [mysql] 	Status change detected: running
+13:13:04  [mysql] 	Status change detected: stopped
+13:13:04  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:13:04  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:13:04  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:13:04  [mysql] 	Press the Logs button to view error logs and check
+13:13:04  [mysql] 	the Windows Event Viewer for more clues
+13:13:04  [mysql] 	If you need more help, copy and post this
+13:13:04  [mysql] 	entire log window on the forums
+13:13:26  [mysql] 	Attempting to start MySQL app...
+13:13:26  [mysql] 	Status change detected: running
+13:13:28  [mysql] 	Status change detected: stopped
+13:13:28  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:13:28  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:13:28  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:13:28  [mysql] 	Press the Logs button to view error logs and check
+13:13:28  [mysql] 	the Windows Event Viewer for more clues
+13:13:28  [mysql] 	If you need more help, copy and post this
+13:13:28  [mysql] 	entire log window on the forums
+13:13:38  [mysql] 	Attempting to start MySQL app...
+13:13:39  [mysql] 	Status change detected: running
+13:13:40  [mysql] 	Status change detected: stopped
+13:13:40  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:13:40  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:13:40  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:13:40  [mysql] 	Press the Logs button to view error logs and check
+13:13:40  [mysql] 	the Windows Event Viewer for more clues
+13:13:40  [mysql] 	If you need more help, copy and post this
+13:13:40  [mysql] 	entire log window on the forums
+13:13:41  [mysql] 	Attempting to start MySQL app...
+13:13:41  [mysql] 	Status change detected: running
+13:13:43  [mysql] 	Status change detected: stopped
+13:13:43  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:13:43  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:13:43  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:13:43  [mysql] 	Press the Logs button to view error logs and check
+13:13:43  [mysql] 	the Windows Event Viewer for more clues
+13:13:43  [mysql] 	If you need more help, copy and post this
+13:13:43  [mysql] 	entire log window on the forums
+13:13:44  [mysql] 	Attempting to start MySQL app...
+13:13:44  [mysql] 	Status change detected: running
+13:13:46  [mysql] 	Status change detected: stopped
+13:13:46  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:13:46  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:13:46  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:13:46  [mysql] 	Press the Logs button to view error logs and check
+13:13:46  [mysql] 	the Windows Event Viewer for more clues
+13:13:46  [mysql] 	If you need more help, copy and post this
+13:13:46  [mysql] 	entire log window on the forums
+13:13:47  [mysql] 	Attempting to start MySQL app...
+13:13:47  [mysql] 	Status change detected: running
+13:13:49  [mysql] 	Status change detected: stopped
+13:13:49  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:13:49  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:13:49  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:13:49  [mysql] 	Press the Logs button to view error logs and check
+13:13:49  [mysql] 	the Windows Event Viewer for more clues
+13:13:49  [mysql] 	If you need more help, copy and post this
+13:13:49  [mysql] 	entire log window on the forums
+13:16:01  [mysql] 	Attempting to start MySQL app...
+13:16:01  [mysql] 	Status change detected: running
+13:16:02  [mysql] 	Status change detected: stopped
+13:16:02  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:16:02  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:16:02  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:16:02  [mysql] 	Press the Logs button to view error logs and check
+13:16:02  [mysql] 	the Windows Event Viewer for more clues
+13:16:02  [mysql] 	If you need more help, copy and post this
+13:16:02  [mysql] 	entire log window on the forums
+13:16:12  [mysql] 	Attempting to start MySQL app...
+13:16:12  [mysql] 	Status change detected: running
+13:16:14  [mysql] 	Status change detected: stopped
+13:16:14  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:16:14  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:16:14  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:16:14  [mysql] 	Press the Logs button to view error logs and check
+13:16:14  [mysql] 	the Windows Event Viewer for more clues
+13:16:14  [mysql] 	If you need more help, copy and post this
+13:16:14  [mysql] 	entire log window on the forums
+13:17:56  [mysql] 	Attempting to start MySQL app...
+13:17:56  [mysql] 	Status change detected: running
+13:17:58  [mysql] 	Status change detected: stopped
+13:17:58  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:17:58  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:17:58  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:17:58  [mysql] 	Press the Logs button to view error logs and check
+13:17:58  [mysql] 	the Windows Event Viewer for more clues
+13:17:58  [mysql] 	If you need more help, copy and post this
+13:17:58  [mysql] 	entire log window on the forums
+13:18:07  [mysql] 	Attempting to start MySQL app...
+13:18:07  [mysql] 	Status change detected: running
+13:18:09  [mysql] 	Status change detected: stopped
+13:18:09  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:18:09  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:18:09  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:18:09  [mysql] 	Press the Logs button to view error logs and check
+13:18:09  [mysql] 	the Windows Event Viewer for more clues
+13:18:09  [mysql] 	If you need more help, copy and post this
+13:18:09  [mysql] 	entire log window on the forums
+13:18:12  [mysql] 	Attempting to start MySQL app...
+13:18:12  [mysql] 	Status change detected: running
+13:18:14  [mysql] 	Status change detected: stopped
+13:18:14  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:18:14  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:18:14  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:18:14  [mysql] 	Press the Logs button to view error logs and check
+13:18:14  [mysql] 	the Windows Event Viewer for more clues
+13:18:14  [mysql] 	If you need more help, copy and post this
+13:18:14  [mysql] 	entire log window on the forums
+13:18:15  [mysql] 	Attempting to start MySQL app...
+13:18:16  [mysql] 	Status change detected: running
+13:18:17  [mysql] 	Status change detected: stopped
+13:18:17  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:18:17  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:18:17  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:18:17  [mysql] 	Press the Logs button to view error logs and check
+13:18:17  [mysql] 	the Windows Event Viewer for more clues
+13:18:17  [mysql] 	If you need more help, copy and post this
+13:18:17  [mysql] 	entire log window on the forums
+13:18:20  [mysql] 	Attempting to start MySQL app...
+13:18:20  [mysql] 	Status change detected: running
+13:18:21  [mysql] 	Status change detected: stopped
+13:18:21  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:18:21  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:18:21  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:18:21  [mysql] 	Press the Logs button to view error logs and check
+13:18:21  [mysql] 	the Windows Event Viewer for more clues
+13:18:21  [mysql] 	If you need more help, copy and post this
+13:18:21  [mysql] 	entire log window on the forums
+13:18:23  [mysql] 	Attempting to start MySQL app...
+13:18:23  [mysql] 	Status change detected: running
+13:18:24  [mysql] 	Status change detected: stopped
+13:18:24  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:18:24  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:18:24  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:18:24  [mysql] 	Press the Logs button to view error logs and check
+13:18:24  [mysql] 	the Windows Event Viewer for more clues
+13:18:24  [mysql] 	If you need more help, copy and post this
+13:18:24  [mysql] 	entire log window on the forums
+13:18:25  [mysql] 	Attempting to start MySQL app...
+13:18:25  [mysql] 	Status change detected: running
+13:18:27  [mysql] 	Status change detected: stopped
+13:18:27  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:18:27  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:18:27  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:18:27  [mysql] 	Press the Logs button to view error logs and check
+13:18:27  [mysql] 	the Windows Event Viewer for more clues
+13:18:27  [mysql] 	If you need more help, copy and post this
+13:18:27  [mysql] 	entire log window on the forums
+13:18:28  [mysql] 	Attempting to start MySQL app...
+13:18:28  [mysql] 	Status change detected: running
+13:18:30  [mysql] 	Status change detected: stopped
+13:18:30  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:18:30  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:18:30  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:18:30  [mysql] 	Press the Logs button to view error logs and check
+13:18:30  [mysql] 	the Windows Event Viewer for more clues
+13:18:30  [mysql] 	If you need more help, copy and post this
+13:18:30  [mysql] 	entire log window on the forums
+13:18:55  [mysql] 	Attempting to start MySQL app...
+13:18:55  [mysql] 	Status change detected: running
+13:18:57  [mysql] 	Status change detected: stopped
+13:18:57  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:18:57  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:18:57  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:18:57  [mysql] 	Press the Logs button to view error logs and check
+13:18:57  [mysql] 	the Windows Event Viewer for more clues
+13:18:57  [mysql] 	If you need more help, copy and post this
+13:18:57  [mysql] 	entire log window on the forums
+13:19:15  [Apache] 	Attempting to stop Apache (PID: 9048)
+13:19:15  [Apache] 	Attempting to stop Apache (PID: 16872)
+13:19:15  [Apache] 	Status change detected: stopped
+13:19:17  [mysql] 	Attempting to start MySQL app...
+13:19:18  [mysql] 	Status change detected: running
+13:19:19  [mysql] 	Status change detected: stopped
+13:19:19  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:19:19  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:19:19  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:19:19  [mysql] 	Press the Logs button to view error logs and check
+13:19:19  [mysql] 	the Windows Event Viewer for more clues
+13:19:19  [mysql] 	If you need more help, copy and post this
+13:19:19  [mysql] 	entire log window on the forums
+13:19:21  [Apache] 	Attempting to start Apache app...
+13:19:21  [Apache] 	Status change detected: running
+13:19:23  [mysql] 	Attempting to start MySQL app...
+13:19:24  [mysql] 	Status change detected: running
+13:19:25  [mysql] 	Status change detected: stopped
+13:19:25  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:19:25  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:19:25  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:19:25  [mysql] 	Press the Logs button to view error logs and check
+13:19:25  [mysql] 	the Windows Event Viewer for more clues
+13:19:25  [mysql] 	If you need more help, copy and post this
+13:19:25  [mysql] 	entire log window on the forums
+13:19:27  [Apache] 	Attempting to stop Apache (PID: 2832)
+13:19:27  [Apache] 	Attempting to stop Apache (PID: 9844)
+13:19:27  [Apache] 	Status change detected: stopped
+13:20:38  [Apache] 	Attempting to start Apache app...
+13:20:38  [Apache] 	Status change detected: running
+13:20:40  [mysql] 	Attempting to start MySQL app...
+13:20:40  [mysql] 	Status change detected: running
+13:22:11  [mysql] 	Attempting to stop MySQL app...
+13:22:12  [mysql] 	Status change detected: stopped
+13:22:12  [Apache] 	Attempting to stop Apache (PID: 8656)
+13:22:12  [Apache] 	Attempting to stop Apache (PID: 22968)
+13:22:12  [Apache] 	Status change detected: stopped
+13:22:13  [Apache] 	Attempting to start Apache app...
+13:22:14  [Apache] 	Status change detected: running
+13:22:15  [mysql] 	Attempting to start MySQL app...
+13:22:16  [mysql] 	Status change detected: running
+13:22:17  [mysql] 	Status change detected: stopped
+13:22:17  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:22:17  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:22:17  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:22:17  [mysql] 	Press the Logs button to view error logs and check
+13:22:17  [mysql] 	the Windows Event Viewer for more clues
+13:22:17  [mysql] 	If you need more help, copy and post this
+13:22:17  [mysql] 	entire log window on the forums
+13:27:52  [Apache] 	Attempting to stop Apache (PID: 22312)
+13:27:52  [Apache] 	Attempting to stop Apache (PID: 7948)
+13:27:52  [Apache] 	Status change detected: stopped
+13:28:20  [Apache] 	Status change detected: running
+13:28:22  [mysql] 	Status change detected: running
+13:39:10  [Apache] 	Status change detected: stopped
+13:39:11  [mysql] 	Status change detected: stopped
+13:39:11  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:39:11  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:39:11  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:39:11  [mysql] 	Press the Logs button to view error logs and check
+13:39:11  [mysql] 	the Windows Event Viewer for more clues
+13:39:11  [mysql] 	If you need more help, copy and post this
+13:39:11  [mysql] 	entire log window on the forums
+13:39:37  [Apache] 	Status change detected: running
+13:39:37  [mysql] 	Status change detected: running
+13:49:49  [Apache] 	Status change detected: stopped
+13:49:50  [mysql] 	Status change detected: stopped
+13:49:50  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:49:50  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:49:50  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:49:50  [mysql] 	Press the Logs button to view error logs and check
+13:49:50  [mysql] 	the Windows Event Viewer for more clues
+13:49:50  [mysql] 	If you need more help, copy and post this
+13:49:50  [mysql] 	entire log window on the forums
+13:50:35  [Apache] 	Status change detected: running
+13:50:37  [mysql] 	Status change detected: running
+13:50:38  [mysql] 	Status change detected: stopped
+13:50:38  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:50:38  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:50:38  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:50:38  [mysql] 	Press the Logs button to view error logs and check
+13:50:38  [mysql] 	the Windows Event Viewer for more clues
+13:50:38  [mysql] 	If you need more help, copy and post this
+13:50:38  [mysql] 	entire log window on the forums
+13:50:41  [mysql] 	Status change detected: running
+13:51:29  [Apache] 	Status change detected: stopped
+13:51:29  [mysql] 	Status change detected: stopped
+13:51:29  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:51:29  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:51:29  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:51:29  [mysql] 	Press the Logs button to view error logs and check
+13:51:29  [mysql] 	the Windows Event Viewer for more clues
+13:51:29  [mysql] 	If you need more help, copy and post this
+13:51:29  [mysql] 	entire log window on the forums
+13:52:55  [Apache] 	Status change detected: running
+13:52:58  [mysql] 	Status change detected: running
+13:57:02  [Apache] 	Status change detected: stopped
+13:57:03  [mysql] 	Status change detected: stopped
+13:57:03  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:57:03  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:57:03  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:57:03  [mysql] 	Press the Logs button to view error logs and check
+13:57:03  [mysql] 	the Windows Event Viewer for more clues
+13:57:03  [mysql] 	If you need more help, copy and post this
+13:57:03  [mysql] 	entire log window on the forums
+13:57:10  [Apache] 	Status change detected: running
+13:57:13  [mysql] 	Status change detected: running
+13:57:58  [Apache] 	Status change detected: stopped
+13:57:58  [mysql] 	Status change detected: stopped
+13:57:58  [mysql] 	Error: MySQL shutdown unexpectedly.
+13:57:58  [mysql] 	This may be due to a blocked port, missing dependencies, 
+13:57:58  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+13:57:58  [mysql] 	Press the Logs button to view error logs and check
+13:57:58  [mysql] 	the Windows Event Viewer for more clues
+13:57:58  [mysql] 	If you need more help, copy and post this
+13:57:58  [mysql] 	entire log window on the forums
+15:13:06  [main] 	Deinitializing Modules
+15:13:06  [main] 	Deinitializing Control Panel
+
+10:14:51  [main] 	Initializing Control Panel
+10:14:51  [main] 	Windows Version:  Enterprise  64-bit
+10:14:51  [main] 	XAMPP Version: 8.2.4
+10:14:51  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:14:51  [main] 	You are not running with administrator rights! This will work for
+10:14:51  [main] 	most application stuff but whenever you do something with services
+10:14:51  [main] 	there will be a security dialogue or things will break! So think 
+10:14:51  [main] 	about running this application with administrator rights!
+10:14:51  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:14:51  [main] 	Checking for prerequisites
+10:14:52  [main] 	All prerequisites found
+10:14:52  [main] 	Initializing Modules
+10:14:52  [filezilla] 	Problem detected!
+10:14:52  [filezilla] 	Port 21 in use by ""C:\Program Files\FileZilla Server\filezilla-server.exe" "!
+10:14:52  [filezilla] 	FileZilla WILL NOT start without the configured ports free!
+10:14:52  [filezilla] 	You need to uninstall/disable/reconfigure the blocking application
+10:14:52  [filezilla] 	or reconfigure FileZilla and the Control Panel to listen on a different port
+10:14:52  [Tomcat] 	Problem detected!
+10:14:52  [Tomcat] 	Port 8005 in use by "Unable to open process"!
+10:14:52  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+10:14:52  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+10:14:52  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+10:14:52  [main] 	Starting Check-Timer
+10:14:52  [main] 	Control Panel Ready
+10:14:55  [Apache] 	Attempting to start Apache app...
+10:14:55  [Apache] 	Status change detected: running
+10:15:00  [mysql] 	Attempting to start MySQL app...
+10:15:00  [mysql] 	Status change detected: running
+09:08:46  [main] 	Deinitializing Modules
+09:08:46  [main] 	Deinitializing Control Panel
+
+09:12:10  [main] 	Initializing Control Panel
+09:12:10  [main] 	Windows Version:  Enterprise  64-bit
+09:12:10  [main] 	XAMPP Version: 8.2.4
+09:12:10  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+09:12:10  [main] 	You are not running with administrator rights! This will work for
+09:12:10  [main] 	most application stuff but whenever you do something with services
+09:12:10  [main] 	there will be a security dialogue or things will break! So think 
+09:12:10  [main] 	about running this application with administrator rights!
+09:12:10  [main] 	XAMPP Installation Directory: "c:\xampp\"
+09:12:10  [main] 	Checking for prerequisites
+09:12:11  [main] 	All prerequisites found
+09:12:11  [main] 	Initializing Modules
+09:12:11  [filezilla] 	Problem detected!
+09:12:11  [filezilla] 	Port 21 in use by ""C:\Program Files\FileZilla Server\filezilla-server.exe" "!
+09:12:11  [filezilla] 	FileZilla WILL NOT start without the configured ports free!
+09:12:11  [filezilla] 	You need to uninstall/disable/reconfigure the blocking application
+09:12:11  [filezilla] 	or reconfigure FileZilla and the Control Panel to listen on a different port
+09:12:11  [Tomcat] 	Problem detected!
+09:12:11  [Tomcat] 	Port 8005 in use by "Unable to open process"!
+09:12:11  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+09:12:11  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+09:12:11  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+09:12:11  [main] 	Starting Check-Timer
+09:12:11  [main] 	Control Panel Ready
+09:12:14  [Apache] 	Attempting to start Apache app...
+09:12:14  [Apache] 	Status change detected: running
+09:12:22  [mysql] 	Attempting to start MySQL app...
+09:12:22  [mysql] 	Status change detected: running
+11:06:32  [Apache] 	Attempting to stop Apache (PID: 24288)
+11:06:32  [Apache] 	Attempting to stop Apache (PID: 15540)
+11:06:32  [Apache] 	Status change detected: stopped
+11:06:33  [mysql] 	Attempting to stop MySQL app...
+11:06:33  [mysql] 	Status change detected: stopped
+11:06:52  [Apache] 	Attempting to start Apache app...
+11:06:53  [Apache] 	Status change detected: running
+11:06:53  [mysql] 	Attempting to start MySQL app...
+11:06:54  [mysql] 	Status change detected: running
+11:06:56  [mysql] 	Status change detected: stopped
+11:06:56  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:06:56  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:06:56  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:06:56  [mysql] 	Press the Logs button to view error logs and check
+11:06:56  [mysql] 	the Windows Event Viewer for more clues
+11:06:56  [mysql] 	If you need more help, copy and post this
+11:06:56  [mysql] 	entire log window on the forums
+11:07:12  [mysql] 	Attempting to start MySQL app...
+11:07:13  [mysql] 	Status change detected: running
+11:07:15  [mysql] 	Status change detected: stopped
+11:07:15  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:07:15  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:07:15  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:07:15  [mysql] 	Press the Logs button to view error logs and check
+11:07:15  [mysql] 	the Windows Event Viewer for more clues
+11:07:15  [mysql] 	If you need more help, copy and post this
+11:07:15  [mysql] 	entire log window on the forums
+11:07:17  [mysql] 	Attempting to start MySQL app...
+11:07:17  [mysql] 	Status change detected: running
+11:07:19  [mysql] 	Status change detected: stopped
+11:07:19  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:07:19  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:07:19  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:07:19  [mysql] 	Press the Logs button to view error logs and check
+11:07:19  [mysql] 	the Windows Event Viewer for more clues
+11:07:19  [mysql] 	If you need more help, copy and post this
+11:07:19  [mysql] 	entire log window on the forums
+11:08:10  [mysql] 	Attempting to start MySQL app...
+11:08:10  [mysql] 	Status change detected: running
+11:08:11  [mysql] 	Status change detected: stopped
+11:08:11  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:08:11  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:08:11  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:08:11  [mysql] 	Press the Logs button to view error logs and check
+11:08:11  [mysql] 	the Windows Event Viewer for more clues
+11:08:11  [mysql] 	If you need more help, copy and post this
+11:08:11  [mysql] 	entire log window on the forums
+11:08:12  [mysql] 	Attempting to start MySQL app...
+11:08:12  [mysql] 	Status change detected: running
+11:08:14  [mysql] 	Status change detected: stopped
+11:08:14  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:08:14  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:08:14  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:08:14  [mysql] 	Press the Logs button to view error logs and check
+11:08:14  [mysql] 	the Windows Event Viewer for more clues
+11:08:14  [mysql] 	If you need more help, copy and post this
+11:08:14  [mysql] 	entire log window on the forums
+11:08:18  [mysql] 	Attempting to start MySQL app...
+11:08:19  [mysql] 	Status change detected: running
+11:08:27  [mysql] 	Attempting to stop MySQL app...
+11:08:27  [mysql] 	Status change detected: stopped
+11:08:27  [Apache] 	Attempting to stop Apache (PID: 15940)
+11:08:27  [Apache] 	Attempting to stop Apache (PID: 11080)
+11:08:28  [Apache] 	Status change detected: stopped
+11:08:28  [Apache] 	Attempting to start Apache app...
+11:08:29  [Apache] 	Status change detected: running
+11:08:30  [mysql] 	Attempting to start MySQL app...
+11:08:30  [mysql] 	Status change detected: running
+11:08:37  [mysql] 	Status change detected: stopped
+11:08:37  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:08:37  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:08:37  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:08:37  [mysql] 	Press the Logs button to view error logs and check
+11:08:37  [mysql] 	the Windows Event Viewer for more clues
+11:08:37  [mysql] 	If you need more help, copy and post this
+11:08:37  [mysql] 	entire log window on the forums
+11:08:43  [mysql] 	Attempting to start MySQL app...
+11:08:44  [mysql] 	Status change detected: running
+11:08:45  [mysql] 	Status change detected: stopped
+11:08:45  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:08:45  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:08:45  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:08:45  [mysql] 	Press the Logs button to view error logs and check
+11:08:45  [mysql] 	the Windows Event Viewer for more clues
+11:08:45  [mysql] 	If you need more help, copy and post this
+11:08:45  [mysql] 	entire log window on the forums
+11:10:23  [mysql] 	Attempting to start MySQL app...
+11:10:24  [mysql] 	Status change detected: running
+11:10:25  [mysql] 	Status change detected: stopped
+11:10:25  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:10:25  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:10:25  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:10:25  [mysql] 	Press the Logs button to view error logs and check
+11:10:25  [mysql] 	the Windows Event Viewer for more clues
+11:10:25  [mysql] 	If you need more help, copy and post this
+11:10:25  [mysql] 	entire log window on the forums
+11:10:26  [mysql] 	Attempting to start MySQL app...
+11:10:26  [mysql] 	Status change detected: running
+11:10:28  [mysql] 	Status change detected: stopped
+11:10:28  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:10:28  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:10:28  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:10:28  [mysql] 	Press the Logs button to view error logs and check
+11:10:28  [mysql] 	the Windows Event Viewer for more clues
+11:10:28  [mysql] 	If you need more help, copy and post this
+11:10:28  [mysql] 	entire log window on the forums
+11:10:31  [mysql] 	Attempting to start MySQL app...
+11:10:31  [mysql] 	Status change detected: running
+11:10:33  [mysql] 	Status change detected: stopped
+11:10:33  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:10:33  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:10:33  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:10:33  [mysql] 	Press the Logs button to view error logs and check
+11:10:33  [mysql] 	the Windows Event Viewer for more clues
+11:10:33  [mysql] 	If you need more help, copy and post this
+11:10:33  [mysql] 	entire log window on the forums
+11:10:36  [mysql] 	Attempting to start MySQL app...
+11:10:36  [mysql] 	Status change detected: running
+11:10:42  [mysql] 	Status change detected: stopped
+11:10:42  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:10:42  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:10:42  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:10:42  [mysql] 	Press the Logs button to view error logs and check
+11:10:42  [mysql] 	the Windows Event Viewer for more clues
+11:10:42  [mysql] 	If you need more help, copy and post this
+11:10:42  [mysql] 	entire log window on the forums
+11:12:09  [Apache] 	Attempting to stop Apache (PID: 22200)
+11:12:09  [Apache] 	Attempting to stop Apache (PID: 13388)
+11:12:09  [Apache] 	Status change detected: stopped
+11:12:10  [Apache] 	Attempting to start Apache app...
+11:12:10  [Apache] 	Status change detected: running
+11:12:12  [mysql] 	Attempting to start MySQL app...
+11:12:13  [mysql] 	Status change detected: running
+17:49:19  [main] 	Deinitializing Modules
+17:49:19  [main] 	Deinitializing Control Panel
+

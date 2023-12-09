@@ -1,0 +1,33 @@
+How to Book A Desk
+You can use this app by following the instructions.
+How to Book A Desk
+You can use this app by following the instructions.
+How to book a request vacation
+go to one.int.sap/home and select My Leave Request
+How do you check your paycheck
+Under Selection, Enter the Personnel number of the.
+
+
+CREATE TABLE likes_dislikes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    faq_id INT NOT NULL,
+    action ENUM('like', 'dislike') NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (faqId) REFERENCES faq(id)
+);
+
+
+// new table 
+CREATE TABLE faq (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    question VARCHAR(255) NOT NULL,
+    answer TEXT NOT NULL,
+    yes_count INT DEFAULT 0,
+    no_count INT DEFAULT 0
+);
+
+// create faq table 
+CREATE TABLE faq ( id INT AUTO_INCREMENT PRIMARY KEY, question TEXT NOT NULL );
+
+// create faq_answers table
+CREATE TABLE faq_answers ( id INT AUTO_INCREMENT PRIMARY KEY, faq_id INT NOT NULL, answer TEXT NOT NULL, yes_count INT DEFAULT 0, no_count INT DEFAULT 0, FOREIGN KEY (faq_id) REFERENCES faq(id) );
